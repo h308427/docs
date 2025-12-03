@@ -12669,15 +12669,6 @@
                     },
                     {
                       "type": "string",
-                      "name": "artifact_metadata",
-                      "description": "",
-                      "enum": [
-                        "read",
-                        "write"
-                      ]
-                    },
-                    {
-                      "type": "string",
                       "name": "attestations",
                       "description": "",
                       "enum": [
@@ -13603,15 +13594,6 @@
                     {
                       "type": "string",
                       "name": "administration",
-                      "description": "",
-                      "enum": [
-                        "read",
-                        "write"
-                      ]
-                    },
-                    {
-                      "type": "string",
-                      "name": "artifact_metadata",
                       "description": "",
                       "enum": [
                         "read",
